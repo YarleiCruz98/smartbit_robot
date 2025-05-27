@@ -1,0 +1,256 @@
+{"level":30,"time":"2025-05-16T21:52:55.483Z","pid":28024,"hostname":"yarlei","msg":"Listening on 127.0.0.1:61020"}
+(node:28024) DeprecationWarning: Calling start() is no longer necessary. It can be safely omitted.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{"level":30,"time":"2025-05-16T21:52:55.942Z","pid":28024,"hostname":"yarlei","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2025-05-16T21:52:56.124Z","pid":28024,"hostname":"yarlei","msg":"Adding browser to stack: chromium, version: 136.0.7103.25"}
+{"level":30,"time":"2025-05-16T21:52:56.124Z","pid":28024,"hostname":"yarlei","msg":"End of node method newBrowser"}
+{"level":30,"time":"2025-05-16T21:52:56.124Z","pid":28024,"hostname":"yarlei","msg":"Adding 0 contexts to browser"}
+{"level":30,"time":"2025-05-16T21:52:56.130Z","pid":28024,"hostname":"yarlei","msg":"Start of node method newPage"}
+{"level":30,"time":"2025-05-16T21:52:56.130Z","pid":28024,"hostname":"yarlei","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2025-05-16T21:52:56.145Z","pid":28024,"hostname":"yarlei","msg":"Changed active context"}
+{"level":30,"time":"2025-05-16T21:52:56.281Z","pid":28024,"hostname":"yarlei","msg":"Video path: undefined"}
+{"level":30,"time":"2025-05-16T21:52:56.281Z","pid":28024,"hostname":"yarlei","msg":"Changed active page"}
+{"level":30,"time":"2025-05-16T21:52:56.644Z","pid":28024,"hostname":"yarlei","msg":"End of node method newPage"}
+{"level":30,"time":"2025-05-16T21:52:56.647Z","pid":28024,"hostname":"yarlei","msg":"Start of node method getText"}
+{"level":30,"time":"2025-05-16T21:52:56.647Z","pid":28024,"hostname":"yarlei","msg":"Strict mode is enabled, find Locator with css=#signup h2 in page."}
+{"level":30,"time":"2025-05-16T21:52:56.687Z","pid":28024,"hostname":"yarlei","msg":"Retrieved text for element css=#signup h2 containing Faça seu cadastro e venha para a Smartbit!"}
+{"level":30,"time":"2025-05-16T21:52:56.687Z","pid":28024,"hostname":"yarlei","msg":"End of node method getText"}
+{"level":30,"time":"2025-05-16T21:52:56.690Z","pid":28024,"hostname":"yarlei","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-05-16T21:52:56.690Z","pid":28024,"hostname":"yarlei","msg":"Strict mode is enabled, find Locator with id=name in page."}
+{"level":30,"time":"2025-05-16T21:52:56.698Z","pid":28024,"hostname":"yarlei","msg":"End of node method fillText"}
+{"level":30,"time":"2025-05-16T21:52:56.702Z","pid":28024,"hostname":"yarlei","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-05-16T21:52:56.702Z","pid":28024,"hostname":"yarlei","msg":"Strict mode is enabled, find Locator with id=email in page."}
+{"level":30,"time":"2025-05-16T21:52:56.710Z","pid":28024,"hostname":"yarlei","msg":"End of node method fillText"}
+{"level":30,"time":"2025-05-16T21:52:56.713Z","pid":28024,"hostname":"yarlei","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-05-16T21:52:56.713Z","pid":28024,"hostname":"yarlei","msg":"Strict mode is enabled, find Locator with id=document in page."}
+{"level":30,"time":"2025-05-16T21:52:56.721Z","pid":28024,"hostname":"yarlei","msg":"End of node method fillText"}
+{"level":30,"time":"2025-05-16T21:52:56.725Z","pid":28024,"hostname":"yarlei","msg":"Start of node method click"}
+{"level":30,"time":"2025-05-16T21:52:56.725Z","pid":28024,"hostname":"yarlei","msg":"Strict mode is enabled, find Locator with css=button >> text=Cadastrar in page."}
+{"level":30,"time":"2025-05-16T21:52:56.766Z","pid":28024,"hostname":"yarlei","msg":"End of node method click"}
+{"level":30,"time":"2025-05-16T21:52:56.770Z","pid":28024,"hostname":"yarlei","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-05-16T21:52:56.770Z","pid":28024,"hostname":"yarlei","msg":"Strict mode is enabled, find Locator with text=Falta pouco para fazer parte da família Smartbit! in page."}
+{"level":30,"time":"2025-05-16T21:52:59.145Z","pid":28024,"hostname":"yarlei","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-05-16T21:52:59.149Z","pid":28024,"hostname":"yarlei","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:52:59.151Z","pid":28024,"hostname":"yarlei","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:52:59.153Z","pid":28024,"hostname":"yarlei","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:52:59.154Z","pid":28024,"hostname":"yarlei","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:52:59.154Z","pid":28024,"hostname":"yarlei","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:52:59.155Z","pid":28024,"hostname":"yarlei","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:52:59.157Z","pid":28024,"hostname":"yarlei","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:52:59.157Z","pid":28024,"hostname":"yarlei","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:52:59.159Z","pid":28024,"hostname":"yarlei","msg":"Changed active context"}
+{"level":30,"time":"2025-05-16T21:52:59.159Z","pid":28024,"hostname":"yarlei","msg":"Changing current active page: page=da61dc8d-4ac0-4590-a179-fbe2387decf6"}
+{"level":30,"time":"2025-05-16T21:52:59.159Z","pid":28024,"hostname":"yarlei","msg":"Changed active page"}
+{"level":30,"time":"2025-05-16T21:52:59.161Z","pid":28024,"hostname":"yarlei","msg":"Start of node method closeContext"}
+{"level":30,"time":"2025-05-16T21:52:59.171Z","pid":28024,"hostname":"yarlei","msg":"Removed page=0b1b33a6-2a06-4310-9d08-85bbf342d863 from context=a496ed86-ccde-4198-8ec1-e37f29029274 page stack"}
+{"level":30,"time":"2025-05-16T21:52:59.196Z","pid":28024,"hostname":"yarlei","msg":"End of node method closeContext"}
+{"level":30,"time":"2025-05-16T21:52:59.204Z","pid":28024,"hostname":"yarlei","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:52:59.204Z","pid":28024,"hostname":"yarlei","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:52:59.207Z","pid":28024,"hostname":"yarlei","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2025-05-16T21:52:59.208Z","pid":28024,"hostname":"yarlei","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2025-05-16T21:52:59.210Z","pid":28024,"hostname":"yarlei","msg":"Start of node method newPage"}
+{"level":30,"time":"2025-05-16T21:52:59.210Z","pid":28024,"hostname":"yarlei","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2025-05-16T21:52:59.215Z","pid":28024,"hostname":"yarlei","msg":"Changed active context"}
+{"level":30,"time":"2025-05-16T21:52:59.297Z","pid":28024,"hostname":"yarlei","msg":"Video path: undefined"}
+{"level":30,"time":"2025-05-16T21:52:59.297Z","pid":28024,"hostname":"yarlei","msg":"Changed active page"}
+{"level":30,"time":"2025-05-16T21:52:59.652Z","pid":28024,"hostname":"yarlei","msg":"End of node method newPage"}
+{"level":30,"time":"2025-05-16T21:52:59.655Z","pid":28024,"hostname":"yarlei","msg":"Start of node method getText"}
+{"level":30,"time":"2025-05-16T21:52:59.655Z","pid":28024,"hostname":"yarlei","msg":"Strict mode is enabled, find Locator with css=#signup h2 in page."}
+{"level":30,"time":"2025-05-16T21:52:59.690Z","pid":28024,"hostname":"yarlei","msg":"Retrieved text for element css=#signup h2 containing Faça seu cadastro e venha para a Smartbit!"}
+{"level":30,"time":"2025-05-16T21:52:59.690Z","pid":28024,"hostname":"yarlei","msg":"End of node method getText"}
+{"level":30,"time":"2025-05-16T21:52:59.692Z","pid":28024,"hostname":"yarlei","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-05-16T21:52:59.692Z","pid":28024,"hostname":"yarlei","msg":"Strict mode is enabled, find Locator with id=email in page."}
+{"level":30,"time":"2025-05-16T21:52:59.698Z","pid":28024,"hostname":"yarlei","msg":"End of node method fillText"}
+{"level":30,"time":"2025-05-16T21:52:59.701Z","pid":28024,"hostname":"yarlei","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-05-16T21:52:59.701Z","pid":28024,"hostname":"yarlei","msg":"Strict mode is enabled, find Locator with id=document in page."}
+{"level":30,"time":"2025-05-16T21:52:59.709Z","pid":28024,"hostname":"yarlei","msg":"End of node method fillText"}
+{"level":30,"time":"2025-05-16T21:52:59.712Z","pid":28024,"hostname":"yarlei","msg":"Start of node method click"}
+{"level":30,"time":"2025-05-16T21:52:59.712Z","pid":28024,"hostname":"yarlei","msg":"Strict mode is enabled, find Locator with css=button >> text=Cadastrar in page."}
+{"level":30,"time":"2025-05-16T21:52:59.734Z","pid":28024,"hostname":"yarlei","msg":"End of node method click"}
+{"level":30,"time":"2025-05-16T21:52:59.737Z","pid":28024,"hostname":"yarlei","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-05-16T21:52:59.737Z","pid":28024,"hostname":"yarlei","msg":"Strict mode is enabled, find Locator with css=.notice >> text=Por favor informe o seu nome completo in page."}
+{"level":30,"time":"2025-05-16T21:53:00.045Z","pid":28024,"hostname":"yarlei","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-05-16T21:53:00.048Z","pid":28024,"hostname":"yarlei","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:00.049Z","pid":28024,"hostname":"yarlei","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:00.050Z","pid":28024,"hostname":"yarlei","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:00.050Z","pid":28024,"hostname":"yarlei","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:00.051Z","pid":28024,"hostname":"yarlei","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:00.052Z","pid":28024,"hostname":"yarlei","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:00.053Z","pid":28024,"hostname":"yarlei","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:00.054Z","pid":28024,"hostname":"yarlei","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:00.055Z","pid":28024,"hostname":"yarlei","msg":"Changed active context"}
+{"level":30,"time":"2025-05-16T21:53:00.055Z","pid":28024,"hostname":"yarlei","msg":"Changing current active page: page=9df878e0-e989-45d9-940a-7b8645702814"}
+{"level":30,"time":"2025-05-16T21:53:00.055Z","pid":28024,"hostname":"yarlei","msg":"Changed active page"}
+{"level":30,"time":"2025-05-16T21:53:00.057Z","pid":28024,"hostname":"yarlei","msg":"Start of node method closeContext"}
+{"level":30,"time":"2025-05-16T21:53:00.065Z","pid":28024,"hostname":"yarlei","msg":"Removed page=b8cbebe2-c921-478d-a2c1-f37bfb25b1c1 from context=f5612c94-2e49-423a-b81f-ccd5d1c8875d page stack"}
+{"level":30,"time":"2025-05-16T21:53:00.085Z","pid":28024,"hostname":"yarlei","msg":"End of node method closeContext"}
+{"level":30,"time":"2025-05-16T21:53:00.090Z","pid":28024,"hostname":"yarlei","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:00.091Z","pid":28024,"hostname":"yarlei","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:00.094Z","pid":28024,"hostname":"yarlei","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2025-05-16T21:53:00.095Z","pid":28024,"hostname":"yarlei","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2025-05-16T21:53:00.097Z","pid":28024,"hostname":"yarlei","msg":"Start of node method newPage"}
+{"level":30,"time":"2025-05-16T21:53:00.097Z","pid":28024,"hostname":"yarlei","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2025-05-16T21:53:00.101Z","pid":28024,"hostname":"yarlei","msg":"Changed active context"}
+{"level":30,"time":"2025-05-16T21:53:00.186Z","pid":28024,"hostname":"yarlei","msg":"Video path: undefined"}
+{"level":30,"time":"2025-05-16T21:53:00.186Z","pid":28024,"hostname":"yarlei","msg":"Changed active page"}
+{"level":30,"time":"2025-05-16T21:53:00.548Z","pid":28024,"hostname":"yarlei","msg":"End of node method newPage"}
+{"level":30,"time":"2025-05-16T21:53:00.551Z","pid":28024,"hostname":"yarlei","msg":"Start of node method getText"}
+{"level":30,"time":"2025-05-16T21:53:00.551Z","pid":28024,"hostname":"yarlei","msg":"Strict mode is enabled, find Locator with css=#signup h2 in page."}
+{"level":30,"time":"2025-05-16T21:53:00.585Z","pid":28024,"hostname":"yarlei","msg":"Retrieved text for element css=#signup h2 containing Faça seu cadastro e venha para a Smartbit!"}
+{"level":30,"time":"2025-05-16T21:53:00.585Z","pid":28024,"hostname":"yarlei","msg":"End of node method getText"}
+{"level":30,"time":"2025-05-16T21:53:00.587Z","pid":28024,"hostname":"yarlei","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-05-16T21:53:00.587Z","pid":28024,"hostname":"yarlei","msg":"Strict mode is enabled, find Locator with id=name in page."}
+{"level":30,"time":"2025-05-16T21:53:00.593Z","pid":28024,"hostname":"yarlei","msg":"End of node method fillText"}
+{"level":30,"time":"2025-05-16T21:53:00.596Z","pid":28024,"hostname":"yarlei","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-05-16T21:53:00.596Z","pid":28024,"hostname":"yarlei","msg":"Strict mode is enabled, find Locator with id=document in page."}
+{"level":30,"time":"2025-05-16T21:53:00.606Z","pid":28024,"hostname":"yarlei","msg":"End of node method fillText"}
+{"level":30,"time":"2025-05-16T21:53:00.609Z","pid":28024,"hostname":"yarlei","msg":"Start of node method click"}
+{"level":30,"time":"2025-05-16T21:53:00.609Z","pid":28024,"hostname":"yarlei","msg":"Strict mode is enabled, find Locator with css=button >> text=Cadastrar in page."}
+{"level":30,"time":"2025-05-16T21:53:00.630Z","pid":28024,"hostname":"yarlei","msg":"End of node method click"}
+{"level":30,"time":"2025-05-16T21:53:00.633Z","pid":28024,"hostname":"yarlei","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-05-16T21:53:00.633Z","pid":28024,"hostname":"yarlei","msg":"Strict mode is enabled, find Locator with css=.notice >> text=Por favor, informe o seu melhor e-mail in page."}
+{"level":30,"time":"2025-05-16T21:53:00.941Z","pid":28024,"hostname":"yarlei","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-05-16T21:53:00.944Z","pid":28024,"hostname":"yarlei","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:00.945Z","pid":28024,"hostname":"yarlei","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:00.946Z","pid":28024,"hostname":"yarlei","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:00.946Z","pid":28024,"hostname":"yarlei","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:00.947Z","pid":28024,"hostname":"yarlei","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:00.948Z","pid":28024,"hostname":"yarlei","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:00.949Z","pid":28024,"hostname":"yarlei","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:00.950Z","pid":28024,"hostname":"yarlei","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:00.951Z","pid":28024,"hostname":"yarlei","msg":"Changed active context"}
+{"level":30,"time":"2025-05-16T21:53:00.951Z","pid":28024,"hostname":"yarlei","msg":"Changing current active page: page=4253eedd-c9e9-43a7-ba98-a5baa7ca3802"}
+{"level":30,"time":"2025-05-16T21:53:00.951Z","pid":28024,"hostname":"yarlei","msg":"Changed active page"}
+{"level":30,"time":"2025-05-16T21:53:00.952Z","pid":28024,"hostname":"yarlei","msg":"Start of node method closeContext"}
+{"level":30,"time":"2025-05-16T21:53:00.961Z","pid":28024,"hostname":"yarlei","msg":"Removed page=c3ac4e1d-dc58-4092-abbe-4d8a46b61085 from context=e5d60b49-d9de-44f0-b454-7a3fb224ceba page stack"}
+{"level":30,"time":"2025-05-16T21:53:00.981Z","pid":28024,"hostname":"yarlei","msg":"End of node method closeContext"}
+{"level":30,"time":"2025-05-16T21:53:00.985Z","pid":28024,"hostname":"yarlei","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:00.985Z","pid":28024,"hostname":"yarlei","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:00.989Z","pid":28024,"hostname":"yarlei","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2025-05-16T21:53:00.989Z","pid":28024,"hostname":"yarlei","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2025-05-16T21:53:00.992Z","pid":28024,"hostname":"yarlei","msg":"Start of node method newPage"}
+{"level":30,"time":"2025-05-16T21:53:00.992Z","pid":28024,"hostname":"yarlei","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2025-05-16T21:53:00.997Z","pid":28024,"hostname":"yarlei","msg":"Changed active context"}
+{"level":30,"time":"2025-05-16T21:53:01.089Z","pid":28024,"hostname":"yarlei","msg":"Video path: undefined"}
+{"level":30,"time":"2025-05-16T21:53:01.089Z","pid":28024,"hostname":"yarlei","msg":"Changed active page"}
+{"level":30,"time":"2025-05-16T21:53:01.484Z","pid":28024,"hostname":"yarlei","msg":"End of node method newPage"}
+{"level":30,"time":"2025-05-16T21:53:01.487Z","pid":28024,"hostname":"yarlei","msg":"Start of node method getText"}
+{"level":30,"time":"2025-05-16T21:53:01.487Z","pid":28024,"hostname":"yarlei","msg":"Strict mode is enabled, find Locator with css=#signup h2 in page."}
+{"level":30,"time":"2025-05-16T21:53:01.520Z","pid":28024,"hostname":"yarlei","msg":"Retrieved text for element css=#signup h2 containing Faça seu cadastro e venha para a Smartbit!"}
+{"level":30,"time":"2025-05-16T21:53:01.520Z","pid":28024,"hostname":"yarlei","msg":"End of node method getText"}
+{"level":30,"time":"2025-05-16T21:53:01.522Z","pid":28024,"hostname":"yarlei","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-05-16T21:53:01.522Z","pid":28024,"hostname":"yarlei","msg":"Strict mode is enabled, find Locator with id=name in page."}
+{"level":30,"time":"2025-05-16T21:53:01.530Z","pid":28024,"hostname":"yarlei","msg":"End of node method fillText"}
+{"level":30,"time":"2025-05-16T21:53:01.533Z","pid":28024,"hostname":"yarlei","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-05-16T21:53:01.533Z","pid":28024,"hostname":"yarlei","msg":"Strict mode is enabled, find Locator with id=email in page."}
+{"level":30,"time":"2025-05-16T21:53:01.539Z","pid":28024,"hostname":"yarlei","msg":"End of node method fillText"}
+{"level":30,"time":"2025-05-16T21:53:01.542Z","pid":28024,"hostname":"yarlei","msg":"Start of node method click"}
+{"level":30,"time":"2025-05-16T21:53:01.542Z","pid":28024,"hostname":"yarlei","msg":"Strict mode is enabled, find Locator with css=button >> text=Cadastrar in page."}
+{"level":30,"time":"2025-05-16T21:53:01.564Z","pid":28024,"hostname":"yarlei","msg":"End of node method click"}
+{"level":30,"time":"2025-05-16T21:53:01.567Z","pid":28024,"hostname":"yarlei","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-05-16T21:53:01.567Z","pid":28024,"hostname":"yarlei","msg":"Strict mode is enabled, find Locator with css=.notice >> text=Por favor, informe o seu CPF in page."}
+{"level":30,"time":"2025-05-16T21:53:01.887Z","pid":28024,"hostname":"yarlei","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-05-16T21:53:01.891Z","pid":28024,"hostname":"yarlei","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:01.891Z","pid":28024,"hostname":"yarlei","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:01.892Z","pid":28024,"hostname":"yarlei","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:01.893Z","pid":28024,"hostname":"yarlei","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:01.894Z","pid":28024,"hostname":"yarlei","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:01.895Z","pid":28024,"hostname":"yarlei","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:01.896Z","pid":28024,"hostname":"yarlei","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:01.897Z","pid":28024,"hostname":"yarlei","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:01.897Z","pid":28024,"hostname":"yarlei","msg":"Changed active context"}
+{"level":30,"time":"2025-05-16T21:53:01.897Z","pid":28024,"hostname":"yarlei","msg":"Changing current active page: page=5b424145-8e43-4d8a-b8c1-eb6d9cdfe002"}
+{"level":30,"time":"2025-05-16T21:53:01.897Z","pid":28024,"hostname":"yarlei","msg":"Changed active page"}
+{"level":30,"time":"2025-05-16T21:53:01.899Z","pid":28024,"hostname":"yarlei","msg":"Start of node method closeContext"}
+{"level":30,"time":"2025-05-16T21:53:01.908Z","pid":28024,"hostname":"yarlei","msg":"Removed page=4eef2543-dbe9-4c2a-b29a-0fec7556e405 from context=210bec62-6ff3-42d1-b6eb-98f8b3010da5 page stack"}
+{"level":30,"time":"2025-05-16T21:53:01.929Z","pid":28024,"hostname":"yarlei","msg":"End of node method closeContext"}
+{"level":30,"time":"2025-05-16T21:53:01.932Z","pid":28024,"hostname":"yarlei","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:01.932Z","pid":28024,"hostname":"yarlei","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:01.936Z","pid":28024,"hostname":"yarlei","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2025-05-16T21:53:01.936Z","pid":28024,"hostname":"yarlei","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2025-05-16T21:53:01.938Z","pid":28024,"hostname":"yarlei","msg":"Start of node method newPage"}
+{"level":30,"time":"2025-05-16T21:53:01.938Z","pid":28024,"hostname":"yarlei","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2025-05-16T21:53:01.943Z","pid":28024,"hostname":"yarlei","msg":"Changed active context"}
+{"level":30,"time":"2025-05-16T21:53:02.028Z","pid":28024,"hostname":"yarlei","msg":"Video path: undefined"}
+{"level":30,"time":"2025-05-16T21:53:02.028Z","pid":28024,"hostname":"yarlei","msg":"Changed active page"}
+{"level":30,"time":"2025-05-16T21:53:02.470Z","pid":28024,"hostname":"yarlei","msg":"End of node method newPage"}
+{"level":30,"time":"2025-05-16T21:53:02.473Z","pid":28024,"hostname":"yarlei","msg":"Start of node method getText"}
+{"level":30,"time":"2025-05-16T21:53:02.473Z","pid":28024,"hostname":"yarlei","msg":"Strict mode is enabled, find Locator with css=#signup h2 in page."}
+{"level":30,"time":"2025-05-16T21:53:02.508Z","pid":28024,"hostname":"yarlei","msg":"Retrieved text for element css=#signup h2 containing Faça seu cadastro e venha para a Smartbit!"}
+{"level":30,"time":"2025-05-16T21:53:02.508Z","pid":28024,"hostname":"yarlei","msg":"End of node method getText"}
+{"level":30,"time":"2025-05-16T21:53:02.511Z","pid":28024,"hostname":"yarlei","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-05-16T21:53:02.511Z","pid":28024,"hostname":"yarlei","msg":"Strict mode is enabled, find Locator with id=name in page."}
+{"level":30,"time":"2025-05-16T21:53:02.517Z","pid":28024,"hostname":"yarlei","msg":"End of node method fillText"}
+{"level":30,"time":"2025-05-16T21:53:02.520Z","pid":28024,"hostname":"yarlei","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-05-16T21:53:02.520Z","pid":28024,"hostname":"yarlei","msg":"Strict mode is enabled, find Locator with id=email in page."}
+{"level":30,"time":"2025-05-16T21:53:02.527Z","pid":28024,"hostname":"yarlei","msg":"End of node method fillText"}
+{"level":30,"time":"2025-05-16T21:53:02.532Z","pid":28024,"hostname":"yarlei","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-05-16T21:53:02.532Z","pid":28024,"hostname":"yarlei","msg":"Strict mode is enabled, find Locator with id=document in page."}
+{"level":30,"time":"2025-05-16T21:53:02.538Z","pid":28024,"hostname":"yarlei","msg":"End of node method fillText"}
+{"level":30,"time":"2025-05-16T21:53:02.541Z","pid":28024,"hostname":"yarlei","msg":"Start of node method click"}
+{"level":30,"time":"2025-05-16T21:53:02.541Z","pid":28024,"hostname":"yarlei","msg":"Strict mode is enabled, find Locator with css=button >> text=Cadastrar in page."}
+{"level":30,"time":"2025-05-16T21:53:02.567Z","pid":28024,"hostname":"yarlei","msg":"End of node method click"}
+{"level":30,"time":"2025-05-16T21:53:02.569Z","pid":28024,"hostname":"yarlei","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-05-16T21:53:02.569Z","pid":28024,"hostname":"yarlei","msg":"Strict mode is enabled, find Locator with css=.notice >> text=Oops! O email informado é inválido in page."}
+{"level":30,"time":"2025-05-16T21:53:02.881Z","pid":28024,"hostname":"yarlei","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-05-16T21:53:02.884Z","pid":28024,"hostname":"yarlei","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:02.885Z","pid":28024,"hostname":"yarlei","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:02.887Z","pid":28024,"hostname":"yarlei","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:02.888Z","pid":28024,"hostname":"yarlei","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:02.889Z","pid":28024,"hostname":"yarlei","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:02.889Z","pid":28024,"hostname":"yarlei","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:02.891Z","pid":28024,"hostname":"yarlei","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:02.892Z","pid":28024,"hostname":"yarlei","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:02.893Z","pid":28024,"hostname":"yarlei","msg":"Changed active context"}
+{"level":30,"time":"2025-05-16T21:53:02.893Z","pid":28024,"hostname":"yarlei","msg":"Changing current active page: page=2952fa64-356a-4ce8-ac7a-b374b6833acb"}
+{"level":30,"time":"2025-05-16T21:53:02.893Z","pid":28024,"hostname":"yarlei","msg":"Changed active page"}
+{"level":30,"time":"2025-05-16T21:53:02.895Z","pid":28024,"hostname":"yarlei","msg":"Start of node method closeContext"}
+{"level":30,"time":"2025-05-16T21:53:02.902Z","pid":28024,"hostname":"yarlei","msg":"Removed page=5f5b7180-7be8-4205-8ca9-0c0e1d94c7ec from context=1144620c-289d-4e22-bf5b-1095cb92520f page stack"}
+{"level":30,"time":"2025-05-16T21:53:02.925Z","pid":28024,"hostname":"yarlei","msg":"End of node method closeContext"}
+{"level":30,"time":"2025-05-16T21:53:02.928Z","pid":28024,"hostname":"yarlei","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:02.929Z","pid":28024,"hostname":"yarlei","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:02.933Z","pid":28024,"hostname":"yarlei","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2025-05-16T21:53:02.933Z","pid":28024,"hostname":"yarlei","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2025-05-16T21:53:02.935Z","pid":28024,"hostname":"yarlei","msg":"Start of node method newPage"}
+{"level":30,"time":"2025-05-16T21:53:02.935Z","pid":28024,"hostname":"yarlei","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2025-05-16T21:53:02.940Z","pid":28024,"hostname":"yarlei","msg":"Changed active context"}
+{"level":30,"time":"2025-05-16T21:53:03.028Z","pid":28024,"hostname":"yarlei","msg":"Video path: undefined"}
+{"level":30,"time":"2025-05-16T21:53:03.028Z","pid":28024,"hostname":"yarlei","msg":"Changed active page"}
+{"level":30,"time":"2025-05-16T21:53:03.353Z","pid":28024,"hostname":"yarlei","msg":"End of node method newPage"}
+{"level":30,"time":"2025-05-16T21:53:03.355Z","pid":28024,"hostname":"yarlei","msg":"Start of node method getText"}
+{"level":30,"time":"2025-05-16T21:53:03.355Z","pid":28024,"hostname":"yarlei","msg":"Strict mode is enabled, find Locator with css=#signup h2 in page."}
+{"level":30,"time":"2025-05-16T21:53:03.388Z","pid":28024,"hostname":"yarlei","msg":"Retrieved text for element css=#signup h2 containing Faça seu cadastro e venha para a Smartbit!"}
+{"level":30,"time":"2025-05-16T21:53:03.388Z","pid":28024,"hostname":"yarlei","msg":"End of node method getText"}
+{"level":30,"time":"2025-05-16T21:53:03.390Z","pid":28024,"hostname":"yarlei","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-05-16T21:53:03.390Z","pid":28024,"hostname":"yarlei","msg":"Strict mode is enabled, find Locator with id=name in page."}
+{"level":30,"time":"2025-05-16T21:53:03.398Z","pid":28024,"hostname":"yarlei","msg":"End of node method fillText"}
+{"level":30,"time":"2025-05-16T21:53:03.400Z","pid":28024,"hostname":"yarlei","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-05-16T21:53:03.400Z","pid":28024,"hostname":"yarlei","msg":"Strict mode is enabled, find Locator with id=email in page."}
+{"level":30,"time":"2025-05-16T21:53:03.407Z","pid":28024,"hostname":"yarlei","msg":"End of node method fillText"}
+{"level":30,"time":"2025-05-16T21:53:03.410Z","pid":28024,"hostname":"yarlei","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-05-16T21:53:03.410Z","pid":28024,"hostname":"yarlei","msg":"Strict mode is enabled, find Locator with id=document in page."}
+{"level":30,"time":"2025-05-16T21:53:03.417Z","pid":28024,"hostname":"yarlei","msg":"End of node method fillText"}
+{"level":30,"time":"2025-05-16T21:53:03.419Z","pid":28024,"hostname":"yarlei","msg":"Start of node method click"}
+{"level":30,"time":"2025-05-16T21:53:03.419Z","pid":28024,"hostname":"yarlei","msg":"Strict mode is enabled, find Locator with css=button >> text=Cadastrar in page."}
+{"level":30,"time":"2025-05-16T21:53:03.442Z","pid":28024,"hostname":"yarlei","msg":"End of node method click"}
+{"level":30,"time":"2025-05-16T21:53:03.446Z","pid":28024,"hostname":"yarlei","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-05-16T21:53:03.446Z","pid":28024,"hostname":"yarlei","msg":"Strict mode is enabled, find Locator with css=.notice >> text=Oops! O CPF informado é inválido in page."}
+{"level":30,"time":"2025-05-16T21:53:03.753Z","pid":28024,"hostname":"yarlei","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-05-16T21:53:03.756Z","pid":28024,"hostname":"yarlei","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:03.757Z","pid":28024,"hostname":"yarlei","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:03.758Z","pid":28024,"hostname":"yarlei","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:03.758Z","pid":28024,"hostname":"yarlei","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:03.759Z","pid":28024,"hostname":"yarlei","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:03.760Z","pid":28024,"hostname":"yarlei","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:03.761Z","pid":28024,"hostname":"yarlei","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:03.762Z","pid":28024,"hostname":"yarlei","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:03.763Z","pid":28024,"hostname":"yarlei","msg":"Changed active context"}
+{"level":30,"time":"2025-05-16T21:53:03.763Z","pid":28024,"hostname":"yarlei","msg":"Changing current active page: page=8f9dd1e7-7392-408f-8630-76166c6aed7a"}
+{"level":30,"time":"2025-05-16T21:53:03.763Z","pid":28024,"hostname":"yarlei","msg":"Changed active page"}
+{"level":30,"time":"2025-05-16T21:53:03.765Z","pid":28024,"hostname":"yarlei","msg":"Start of node method closeContext"}
+{"level":30,"time":"2025-05-16T21:53:03.774Z","pid":28024,"hostname":"yarlei","msg":"Removed page=3f91b001-965a-424d-b089-82d61de6635e from context=3d67858a-b328-4421-99e6-3d6d4b6ba524 page stack"}
+{"level":30,"time":"2025-05-16T21:53:03.797Z","pid":28024,"hostname":"yarlei","msg":"End of node method closeContext"}
+{"level":30,"time":"2025-05-16T21:53:03.803Z","pid":28024,"hostname":"yarlei","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:03.803Z","pid":28024,"hostname":"yarlei","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-16T21:53:03.842Z","pid":28024,"hostname":"yarlei","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2025-05-16T21:53:03.978Z","pid":28024,"hostname":"yarlei","msg":"End of node method closeAllBrowsers"}
